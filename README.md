@@ -19,6 +19,9 @@
   <img src="https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras" alt="Keras"/>
   <img src="https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status"/>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"/>
+  </a>
 </p>
 
 ---
@@ -395,11 +398,21 @@ Actual evaluation metrics should be added here after running the final evaluatio
 
 ## Author
 
-**Md. Ahanaf Tahmid **
+**Md. Ahanaf Tahmid**
 
 Computer Science and Engineering Graduate
 
 - GitHub: [@rifat9754](https://github.com/rifat9754)
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
